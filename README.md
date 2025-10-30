@@ -32,4 +32,7 @@
 
 ### 🛠️ Contact
 
+**[ENG]** No contact information is provided at this time.
+**[KOR]** 현재는 제공되는 연락 정보가 없습니다.
+
 * *[Contact Email or Link]*
