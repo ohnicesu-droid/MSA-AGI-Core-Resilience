@@ -32,7 +32,4 @@
 
 ### 🛠️ Contact
 
-**[ENG]** Technical inquiries and feedback are welcome.
-**[KOR]** 기술 문의 및 피드백을 환영합니다.
-
 * *[Contact Email or Link]*
